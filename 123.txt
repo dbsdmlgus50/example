@@ -1,2 +1,7 @@
 asdasd
+<<<<<<< HEAD
 print("branch")
+=======
+print("bracnh")
+pritn("more")
+>>>>>>> devlop
